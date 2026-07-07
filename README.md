@@ -28,7 +28,7 @@ The framework is designed for AI-assisted cardiac analysis and evaluated on the 
 ## 🏗️ Model Architecture
 
 <p align="center">
-<img src="images/architecture.png" width="900">
+<img src="architecture.png" width="900">
 </p>
 
 PADTAN++ consists of:
