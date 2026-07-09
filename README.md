@@ -3,7 +3,7 @@
 > **PADTAN++: A Temporal Attention-Based Multi-Phase Framework for Echocardiographic Segmentation**
 
 
-## 📖 Overview
+##  Overview
 
 PADTAN++ is a novel transformer-based deep learning framework for accurate and temporally consistent left ventricle segmentation in echocardiographic sequences.
 
@@ -13,7 +13,7 @@ The framework is designed for AI-assisted cardiac analysis and evaluated on the 
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - Temporal Cross-Attention between ED and ES phases
 - Dual-Path Decoder Architecture
@@ -25,7 +25,7 @@ The framework is designed for AI-assisted cardiac analysis and evaluated on the 
 
 ---
 
-## 🏗️ Model Architecture
+##  Model Architecture
 
 <p align="center">
 <img src="architecture.png" width="900">
@@ -41,7 +41,7 @@ PADTAN++ consists of:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 Experiments are performed on the **CAMUS** echocardiography dataset.
 
@@ -51,7 +51,7 @@ Dataset includes:
 - End-Systolic (ES) Frames
 - Left Ventricle Masks
 
-## 📈 Results
+## Results
 
 PADTAN++ focuses on improving:
 
@@ -63,7 +63,7 @@ PADTAN++ focuses on improving:
 
 ---
 
-## 💡 Applications
+##  Applications
 
 - Echocardiography Segmentation
 - Cardiac Function Analysis
@@ -73,7 +73,7 @@ PADTAN++ focuses on improving:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - PyTorch
@@ -83,7 +83,7 @@ PADTAN++ focuses on improving:
 
 ---
 
-## 👨‍💻 Authors
+##  Authors
 
 **Sriman Narayana**
 
@@ -91,7 +91,7 @@ Indian Institute of Information Technology Design and Manufacturing Jabalpur
 
 ---
 
-## ⭐ Future Work
+##  Future Work
 
 - Multi-view Echocardiography
 - 3D Cardiac Segmentation
